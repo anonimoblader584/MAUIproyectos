@@ -1,0 +1,74 @@
+[
+  {
+    "Name": "Sportster S",
+    "Category": "Sport",
+    "Details": "Es el primer capítulo de un libro nuevo en la saga de Sportster. Un legado que nació en 1957 y le ganó a la competencia ahora se rediseñó para arrasar con los estándares actuales.",
+    "Image": "https://estampidaharleydavidson.com/wp-content/uploads/2022/02/2022-sportster-s-f59-motorcycle-03.jpg",
+    "Price": "$ 440,900 MXN",
+    "FuelEconomy": "5.1l/100km"
+  },
+  {
+   "Name": "Street Bob",
+    "Category": "Cruiser",
+    "Details": "Una bobber tenaz y despojada, envuelta en negro. Una motocicleta con rendimiento perfecto ideal para personalizar.",
+    "Image": "https://estampidaharleydavidson.com/wp-content/uploads/2022/02/2022-street-bob-114-f53-motorcycle-03.jpeg",
+    "Price": "$ 440,900 MXN",
+    "FuelEconomy": "5.5l/100km" 
+  },
+  {
+    "Name": "Low Rider S",
+    "Category": "Cruiser",
+    "Details": "Una motocicleta Cruiser con rendimiento personalizado de fábrica y oscurecida.",
+    "Image": "https://estampidaharleydavidson.com/wp-content/uploads/2022/02/2022-low-rider-s-010-motorcycle-03.jpg",
+    "Price": "$ 450,900 MXN",
+    "FuelEconomy": "5.5l/100km"
+  },
+  {
+    "Name": "Heritage Classic",
+    "Category": "Cruiser",
+    "Details": "La motocicleta Cruiser estadounidenses por excelencia. Impresionantes detalles retro y puro estilo rock and roll.",
+    "Image": "https://estampidaharleydavidson.com/wp-content/uploads/2022/02/2022-heritage-classic-114-f64b-motorcycle-03.jpg",
+    "Price": "$ 489,900 MXN",
+    "FuelEconomy": "5.5l/100km" 
+  },
+  {
+    "Name": "Road King",
+    "Category": "Grand American Turing",
+    "Details": "Una leyenda de la carretera con estilo cromado clásico y rendimiento touring moderno.",
+    "Image": "https://estampidaharleydavidson.com/wp-content/uploads/2021/04/2021-road-king-010-motorcycle-03.png",
+    "Price": "$ 514,900 MXN",
+    "FuelEconomy": "6.1l/100km" 
+  },
+  {
+    "Name": "Street Glide ST",
+    "Category": "Grand American Turing",
+    "Details": "Una bagger de gran calidad y rendimiento ideal para touring con un estilo marcado por la costa oeste.",
+    "Image": "https://estampidaharleydavidson.com/wp-content/uploads/2022/02/2022-street-glide-st-010-motorcycle-03.jpg",
+    "Price": "$ 749,900 MXN",
+    "FuelEconomy": "6.1l/100km" 
+  },
+  {
+    "Name": "CVO Road Glide Limited",
+    "Category": "Grand American Turing",
+    "Details": "Es muy elegante y cómodo para recorridos largos, tiene un estilo atractivo y una potencia que siempre te dejará satisfecho. El audio de alta calidad, las empuñaduras y el asiento con calefacción, y la maniobrabilidad precisa que brinda el carenado tipo sharknose del modelo Road Glide hacen que esta motocicleta sea sinónimo de placer al conducir.",
+    "Image": "https://estampidaharleydavidson.com/wp-content/uploads/2022/02/2022-cvo-road-glide-limited-f43-motorcycle-03.jpg",
+    "Price": "$ 1,089,900 MXN",
+    "FuelEconomy": "6.3l/100km" 
+  },
+  {
+    "Name": "Pan America 1250",
+    "Category": "Adventure Turing",
+    "Details": "La motocicleta Pan America™ 1250 es un vehículo de dos ruedas, integral y duradero, que está diseñado para la exploración y la aventura.",
+    "Image": "https://estampidaharleydavidson.com/wp-content/uploads/2022/02/2022-pan-america-1250-special-010lb-motorcycle-03.jpg",
+    "Price": "$ 450,900 MXN",
+    "FuelEconomy": "5.5l/100km" 
+  },
+  {
+    "Name": "CVO Tri Glide",
+    "Category": "Trike",
+    "Details": "En busca de aventuras sin límites sobre tres ruedas. La CVO™ Tri Gilde™ 2022 ofrece un potente rendimiento y capacidad para viajes de larga distancia, además de la confianza  adicional de una tercera rueda. Está totalmente equipada con un sistema de audio de alta calidad, características para una lujosa comodidad y un acabado y atención al detalle superiores.",
+    "Image": "https://estampidaharleydavidson.com/wp-content/uploads/2021/04/2021-cvo-tri-glide-f15-motorcycle-03.png",
+    "Price": "$ 1,258,900 MXN",
+    "FuelEconomy": "7.1l/100km" 
+  }
+]
